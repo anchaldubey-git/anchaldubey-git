@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anchaldubey-git
-- 👀 I’m interested in exploring the horizon of biotech integrates witgh data analytics as well as healcare analytics
+- 👀 I’m interested in exploring the horizon of biotech integrates with data analytics as well as Bioinformatics.
 - 🌱 I’m currently learning core concepts of biotechnology and data analytics
 - 💞️ I’m looking to collaborate biotech with modern data driven solutions
 - 📫 How to reach me ... ad3281453@gmail.com
